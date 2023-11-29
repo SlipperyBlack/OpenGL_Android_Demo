@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android_OpenGL_Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_WebGL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenGLAndroidDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenGL_Demo" vcs="Git" />
+  </component>
+</project>
